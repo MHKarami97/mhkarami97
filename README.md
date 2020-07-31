@@ -4,7 +4,6 @@
 
 ![Twitter](https://img.shields.io/twitter/follow/mhkarami97?label=Follow)
 ![GitHub](https://img.shields.io/github/followers/mhkarami97?label=Follow&style=social)
-[![Linkedin](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mhkarami97/)](https://www.linkedin.com/inmhkarami97/)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
