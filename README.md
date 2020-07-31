@@ -33,11 +33,11 @@ const data = {
 **🌞 Info** 
 
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mhkarami97&show_icons=true" alt="mhkarami97" /> 
 </p>
 
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhkarami97" />
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhkarami97&layout=compact" />
 </p>
