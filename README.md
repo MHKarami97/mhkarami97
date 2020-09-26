@@ -12,15 +12,17 @@ const data = {
     code: [".Net Core", "Angular", "Xamarin"],
     askMeAbout: ["Developer"],
     technologies: {
-        mobileApp: ["Xamarin"],
+        backEnd: {
+            CSharp: [".net Core", "WPF"]
+        },
+        mobileApp: {
+            CSharp: ["Xamarin"]
+        },
         frontEnd: {
             js: ["Angular"],
             css: ["bootstrap"]
-        },
-        backEnd: {
-            js: [".net Core"]
-        },
-        databases: ["SQL Server", "MySql"]
+        },      
+        databases: ["SQL Server", "MySql", "MongoDB"]
     }
 };
 ```
