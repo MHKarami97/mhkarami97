@@ -1,14 +1,14 @@
 <h2>I'm Mohammad Hossein Karami</h2>
 
-![https://mhkarami97.ir](/github-metrics.svg)
+<img src="/github-metrics.svg" alt="mhkarami97" width="100%" />
 
 ---
 
 **🌞 Info** 
 
 <p align="center" >
-  <img src="https://github-readme-stats.vercel.app/api?username=mhkarami97&show_icons=true" alt="mhkarami97" width="300" heigth="300" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhkarami97&layout=compact" alt="mhkarami97" width="300" heigth="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mhkarami97&theme=gruvbox&show_icons=true" alt="mhkarami97" width="300" heigth="300" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhkarami97&theme=gruvbox&layout=compact" alt="mhkarami97" width="300" heigth="300" />
 </p>
 
 ---
