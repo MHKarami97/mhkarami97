@@ -7,7 +7,7 @@
 **🌞 Info** 
 
 <p align="center" >
-  <img src="https://github-readme-stats.vercel.app/api?username=mhkarami97&theme=gruvbox&show_icons=true" alt="mhkarami97" width="300" heigth="300" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=mhkarami97&theme=gruvbox&show_icons=true" alt="mhkarami97" width="355" heigth="300" /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhkarami97&theme=gruvbox&layout=compact" alt="mhkarami97" width="300" heigth="300" />
 </p>
 
@@ -17,7 +17,7 @@
 
 ```javascript
 const data = {
-    code: [".Net Core", "Angular", "Xamarin"],
+    code: [".Net Core", "Angular", "Xamarin", "SQL"],
     askMeAbout: ["Developer"],
     technologies: {
         backEnd: {
@@ -27,7 +27,7 @@ const data = {
             CSharp: ["Xamarin"]
         },
         frontEnd: {
-            js: ["Angular"],
+            js: ["Angular", "VueJs"],
             css: ["bootstrap"]
         },      
         databases: ["SQL Server", "MySql", "MongoDB"]
