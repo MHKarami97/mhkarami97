@@ -4,6 +4,15 @@
 
 ---
 
+**🌞 Info** 
+
+<p align="center" >
+  <img src="https://github-readme-stats.vercel.app/api?username=mhkarami97&show_icons=true" alt="mhkarami97" width="300" heigth="300" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhkarami97&layout=compact" alt="mhkarami97" width="300" heigth="300" />
+</p>
+
+---
+
 ### A little more about me...  
 
 ```javascript
@@ -12,7 +21,7 @@ const data = {
     askMeAbout: ["Developer"],
     technologies: {
         backEnd: {
-            CSharp: [".net Core", "WPF"]
+            CSharp: [".net Core", "C#"]
         },
         mobileApp: {
             CSharp: ["Xamarin"]
@@ -25,12 +34,3 @@ const data = {
     }
 };
 ```
-
----
-
-**🌞 Info** 
-
-<p align="center" >
-  <img src="https://github-readme-stats.vercel.app/api?username=mhkarami97&show_icons=true" alt="mhkarami97" width="300" heigth="300" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhkarami97&layout=compact" alt="mhkarami97" width="300" heigth="300" />
-</p>
