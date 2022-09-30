@@ -53,7 +53,7 @@ jobs:
           plugin_lines: yes
           plugin_notable: yes
           plugin_notable_from: all
-          plugin_projects: yes
+          plugin_projects: no
           plugin_projects_limit: 4
           plugin_repositories: 100
           plugin_repositories_affiliations: owner
