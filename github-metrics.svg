@@ -502,7 +502,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>akkadotnet/akka.net</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Canonical actor model implementation for .NET with local + distributed actors in C# and F#.</div>
@@ -555,7 +555,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jbogard/Respawn</span>
-                                        <span>starred 26 days ago</span>
+                                        <span>starred 27 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Intelligent database cleaner for integration tests</div>
@@ -608,7 +608,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>BenMorris/NetArchTest</span>
-                                        <span>starred 26 days ago</span>
+                                        <span>starred 27 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A fluent API for .Net that can enforce architectural rules in unit tests.</div>
@@ -642,7 +642,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        51
+                                        52
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -661,7 +661,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AutoFixture/AutoFixture</span>
-                                        <span>starred 26 days ago</span>
+                                        <span>starred 27 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">AutoFixture is an open source library for .NET designed to minimize the 'Arrange' phase of your unit tests in order to maximize maintainability. Its primary goal is to allow developers to focus on what is being tested rather than how to setup the test scenario, by making it easier to create object graphs containing test data.</div>
@@ -1073,7 +1073,7 @@ example image:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 Aug 2023, 05:33:23 (timezone Asia/Tehran) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 6 Aug 2023, 05:29:20 (timezone Asia/Tehran) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
