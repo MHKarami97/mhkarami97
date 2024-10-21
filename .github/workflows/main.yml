@@ -55,7 +55,7 @@ jobs:
           plugin_notable_from: all
           plugin_projects: no
           plugin_projects_limit: 4
-          plugin_repositories: 100
+          plugin_repositories: no
           plugin_repositories_affiliations: owner
           plugin_repositories_batch: 100
           plugin_rss: no
