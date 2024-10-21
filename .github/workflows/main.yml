@@ -61,10 +61,10 @@ jobs:
           plugin_rss: no
           plugin_rss_limit: 4
           plugin_rss_source: https://blog.mhkarami97.ir/feed.xml
-          plugin_stackoverflow: yes
+          plugin_stackoverflow: no
           plugin_stackoverflow_limit: 0
           plugin_stackoverflow_lines: 0
           plugin_stackoverflow_lines_snippet: 0
           plugin_stackoverflow_user: 10233323
-          plugin_stars: yes
+          plugin_stars: no
           plugin_stars_limit: 4
