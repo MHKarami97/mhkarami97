@@ -1,10 +1,6 @@
-<h2>I'm Mohammad Hossein Karami</h2>
-
 <img src="/github-metrics.svg" alt="mhkarami97" width="100%" />
 
 ---
-
-**🌞 Info** 
 
 <p align="center" >
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mhkarami97&theme=dracula" alt="mhkarami97" width="300" heigth="300" />
