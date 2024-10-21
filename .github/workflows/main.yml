@@ -34,7 +34,7 @@ jobs:
           plugin_achievements_threshold: C
           plugin_discussions: yes
           plugin_gists: yes
-          plugin_habits: yes
+          plugin_habits: no
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_from: 200
@@ -51,21 +51,20 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_lines: yes
-          plugin_notable: yes
+          plugin_notable: no
           plugin_notable_from: all
           plugin_projects: no
           plugin_projects_limit: 4
           plugin_repositories: 100
           plugin_repositories_affiliations: owner
           plugin_repositories_batch: 100
-          plugin_rss: yes
+          plugin_rss: no
           plugin_rss_limit: 4
           plugin_rss_source: https://blog.mhkarami97.ir/feed.xml
           plugin_stackoverflow: yes
-          plugin_stackoverflow_limit: 2
-          plugin_stackoverflow_lines: 4
-          plugin_stackoverflow_lines_snippet: 2
-          plugin_stackoverflow_sections: answers-top, questions-recent
+          plugin_stackoverflow_limit: 0
+          plugin_stackoverflow_lines: 0
+          plugin_stackoverflow_lines_snippet: 0
           plugin_stackoverflow_user: 10233323
           plugin_stars: yes
           plugin_stars_limit: 4
