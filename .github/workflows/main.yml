@@ -57,7 +57,6 @@ jobs:
           plugin_projects_limit: 4
           plugin_repositories: no
           plugin_repositories_affiliations: owner
-          plugin_repositories_batch: 100
           plugin_rss: no
           plugin_rss_limit: 4
           plugin_rss_source: https://blog.mhkarami97.ir/feed.xml
